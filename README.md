@@ -2,5 +2,5 @@
 
 ## Installation:
 - Clone the repository
-- Install gulp
-- Install gulp-sass
+- Install gulp: `npm install gulp`
+- Install gulp-sass: `npm install gulp-sass`
