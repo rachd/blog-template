@@ -1,0 +1,16 @@
+/*
+Theme Name: Blog Template
+Author: Rachel Dorn
+Description: This theme is designed for a blog
+Version: 1.0
+*/
+
+@import 'test';
+
+.testing {
+	width: percentage(5/7);
+}
+
+body {
+	background: blue;
+}
