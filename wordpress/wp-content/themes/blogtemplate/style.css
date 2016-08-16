@@ -4,5 +4,12 @@ Author: Rachel Dorn
 Description: This theme is designed for a blog
 Version: 1.0
 */
-.test {
-  color: blue; }
+body {
+  margin: 0; }
+
+a {
+  text-decoration: none; }
+
+.title-col {
+  text-align: center;
+  font-size: 30px; }

@@ -5,4 +5,19 @@ Description: This theme is designed for a blog
 Version: 1.0
 */
 
-@import 'test';
+body {
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+#page {
+
+}
+
+.title-col {
+	text-align: center;
+	font-size: 30px;
+}
